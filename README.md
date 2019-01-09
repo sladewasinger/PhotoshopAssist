@@ -4,4 +4,5 @@ The problem is this:
 * You zoom in and out of the image by using [alt]+scrollwheel
 * You then release [alt], and attempt to pan around the image by pressing and holding [space]
 * Before you can pan, Windows beeps at you because the alt-menus are shown, and [space] isn't a valid menu.
-* The solution is to press [alt] again before pressing [space] to pan... or just run my program in the backround.
+
+*The solution is to press [alt] again before pressing [space] to pan... or just run my program in the backround and proceed as normal.*
